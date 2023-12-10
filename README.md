@@ -33,6 +33,8 @@
   
    ### Exploratory and Data Analysis
 
+<img width="686" alt="Temitope_adepoju_Airline_dashboard_project_1" src="https://github.com/Temitopeadep/US-Airline-Dashboard/assets/142262047/2fe5268c-872a-4de0-949c-0486dbc069ab">
+
    The following questions were answered:
    - Number of Flight Cancelled
    - No of Flight Scheduled
