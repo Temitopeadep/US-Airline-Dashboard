@@ -43,7 +43,7 @@
    - Airline Delay by City
    - Flight scheduled by day of the week
   
-    ### Result and Findings
+   ### Result and Findings
 
    1. It was discovered that July has the highest flight scheduled
    2. Chicago has the highest flight delay
